@@ -18,12 +18,14 @@ public void enter_into_irctc_website_f_newchromedriver_chromedriver_exe() {
 	System.out.println("pinakini express");
 	System.out.println("ongole");
 	System.out.println("vijayawada");
+	
 	throw new io.cucumber.java.PendingException();
 
     
 }
 	@Then("login into {string} and {string}")
 	public void login_into_and(String string, String string2) {
+		System.out.println("welcome to railways");
 	   
 	    throw new io.cucumber.java.PendingException();
 	}
