@@ -17,6 +17,7 @@ public void enter_into_irctc_website_f_newchromedriver_chromedriver_exe() {
 	System.out.println("indian railways");
 	System.out.println("pinakini express");
 	System.out.println("ongole");
+	System.out.println("vijayawada");
 	throw new io.cucumber.java.PendingException();
 
     
