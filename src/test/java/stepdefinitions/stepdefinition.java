@@ -14,6 +14,7 @@ public void enter_into_irctc_website_f_newchromedriver_chromedriver_exe() {
 	System.setProperty("WebDriver.chrome.driver" , "F:\\newchromedriver\\chromedriver.exe");
 	driver=new ChromeDriver();
 	driver.get("https://www.irctc.co.in/nget/train-search");
+	System.out.println("indian railways");
 	throw new io.cucumber.java.PendingException();
 
     
